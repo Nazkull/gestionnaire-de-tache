@@ -1,0 +1,2 @@
+Au cours de cette réunion, nous avons finalisé tous ensemble le scénario de l'application.
+Les différentes parties: Utilisateur, Administrateur et utilisation en groupe ont été définies. 
