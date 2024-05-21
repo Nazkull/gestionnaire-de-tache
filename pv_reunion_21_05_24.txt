@@ -1,0 +1,4 @@
+- Rédaction d'un fichier de connexion + création d'un fichier JSON
+- Modification du répertoire de création
+- Création d'un calendrier
+- Mise au point du fonctionnement de l'application.

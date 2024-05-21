@@ -21,6 +21,7 @@ entry.pack(pady=5, padx=10)
 # Création d'un cadre pour contenir les boutons
 frame_boutons = tk.Frame(fenetre)
 frame_boutons.pack(pady=5)
+rgjrdojgh
 
 # Définition d'une fonction pour ajouter une tâche à la liste
 def ajouter_tache():
