@@ -1,0 +1,45 @@
+{
+    "luca": {
+        "tasks": [],
+        "projects": []
+    },
+    "thomas": {
+        "tasks": [
+            {
+                "name": "bb",
+                "due_date": "04/06/2024",
+                "start_time": "04:05",
+                "end_time": "05:06",
+                "status": "incomplete",
+                "priority": "low"
+            }
+        ],
+        "projects": [
+            "thomastest"
+        ]
+    },
+    "admin": {
+        "tasks": [
+            {
+                "name": "aa",
+                "due_date": "04/06/2024",
+                "start_time": "01:02",
+                "end_time": "02:01",
+                "status": "incomplete",
+                "priority": "high"
+            },
+            {
+                "name": "bb",
+                "due_date": "04/06/2024",
+                "start_time": "04:05",
+                "end_time": "05:06",
+                "status": "incomplete",
+                "priority": "low"
+            }
+        ],
+        "projects": [
+            "lucatest",
+            "thomastest"
+        ]
+    }
+}
