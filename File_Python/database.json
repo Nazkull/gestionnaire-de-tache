@@ -1,1 +1,1 @@
-{"remy": "azertyuiop"}
+{"admin": {"password": "admin", "role": "admin"}, "thomas": {"password": "thomas", "role": "user"}, "luca": {"password": "luca", "role": "user"}}
